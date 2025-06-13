@@ -1,4 +1,4 @@
-require('dotenv').config();
+1require('dotenv').config();
 const fs = require('fs');
 const chalk = require('chalk');
 
